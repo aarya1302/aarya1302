@@ -3,6 +3,10 @@
 Welcome to my GitHub profile! I'm passionate about technology, learning new things, and building useful tools and projects. Here you'll find a mix of professional work, personal experiments, and open source contributions.
 
 ---
+## 📈 GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aarya1302&layout=compact&theme=github_dark)
+
+---
 
 ## 🚀 About Me
 
@@ -31,12 +35,6 @@ Welcome to my GitHub profile! I'm passionate about technology, learning new thin
 
 ---
 
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark)
-
----
 
 
 Thanks for stopping by! ✨ Feel free to follow or reach out if you want to collaborate.
